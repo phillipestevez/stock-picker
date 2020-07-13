@@ -1,0 +1,1 @@
+Created a method in ruby that takes an array of stock prices and returns a pair of days representing best day to buy and best day to sell. Days start at 0.
